@@ -3,4 +3,4 @@
 ## pls double check the result and the formula.
 ## 如果哪里写错了请直接提交issue。
 
-# ALL THE BEST FOR YOR EXAM.
+# ALL THE BEST FOR YOUR EXAM.
